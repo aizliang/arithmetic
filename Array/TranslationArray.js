@@ -11,7 +11,7 @@ var rotate = function(nums, k) {
     if (k == 0) return nums;
    
     let tmp = nums.splice(nums.length-k, k);
-    nums.splice(0,0,...tmp);
+    nums.unshift(...tmp);
     return nums;
 };
 
