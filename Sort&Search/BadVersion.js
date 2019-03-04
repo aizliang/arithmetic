@@ -6,7 +6,6 @@
 var solution = function(isBadVersion) {
     
     return function(n) {
-    	if (n == 1) return n;
 
     	var lowVersion = 0;
     	var highVersion = n;
