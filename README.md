@@ -1,8 +1,8 @@
 这是一个练习算法和数据结构的地方，主要是 LeetCode 上的题。
 
-希望掌握的[知识点](https://github.com/aizliang/arithmetic/blob/master/%E7%AE%97%E6%B3%95.xmind)。
+希望掌握的[知识点](https://github.com/aizliang/arithmetic/blob/master/%E7%AE%97%E6%B3%95%E5%92%8C%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84.xmind)。
 
-## 内容详解
+### 内容详解
 
 | 题目 | 知识点 | 时间复杂度 | 空间复杂度 | 解决 |
 | --- | ---| ---| --- | --- |
