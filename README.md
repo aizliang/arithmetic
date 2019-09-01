@@ -4,7 +4,7 @@
 
 ## 内容详解
 
-| 题目 | 知识点 | 时间负责度 | 空间复杂度 | 解决 |
+| 题目 | 知识点 | 时间复杂度 | 空间复杂度 | 解决 |
 | --- | ---| ---| --- | --- |
-| [删除排序数组中的重复项](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/1/array/21/) | 双指针 | O(n) | O(1) | [Swfit](https://github.com/aizliang/arithmetic/blob/master/%E5%88%9D%E7%BA%A7%E7%AE%97%E6%B3%95/Swift/removeDuplicates.swift) [JavaScript](https://github.com/aizliang/arithmetic/blob/master/%E5%88%9D%E7%BA%A7%E7%AE%97%E6%B3%95/JavaScript/Array/DeleteRepetitionElement.js) |
+| [删除排序数组中的重复项](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/1/array/21/) | 双指针 | O(n) | O(1) | [Swfit](https://github.com/aizliang/arithmetic/blob/master/%E5%88%9D%E7%BA%A7%E7%AE%97%E6%B3%95/Swift/removeDuplicates.swift) \| [JavaScript](https://github.com/aizliang/arithmetic/blob/master/%E5%88%9D%E7%BA%A7%E7%AE%97%E6%B3%95/JavaScript/Array/DeleteRepetitionElement.js) |
 
