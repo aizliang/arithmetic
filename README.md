@@ -20,3 +20,5 @@
 | [合并两个有序数组](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/8/sorting-and-searching/52/) | 双指针、从后向前 | O(m+n) | O(1) | [Swift](https://github.com/aizliang/arithmetic/blob/master/初级算法/Swift/Sort%26Search/merge.swift) \| [JavaScript](https://github.com/aizliang/arithmetic/blob/master/%E5%88%9D%E7%BA%A7%E7%AE%97%E6%B3%95/JavaScript/Sort%26Search/Merge.js)|
 | 动态规划 |
 | [爬楼梯](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/23/dynamic-programming/54/) |  | O(n) | O(1) | [Swift](https://github.com/aizliang/arithmetic/blob/master/%E5%88%9D%E7%BA%A7%E7%AE%97%E6%B3%95/Swift/DynamicPlanning/climbStairs.swift) \| [JavaScript](https://github.com/aizliang/arithmetic/blob/master/%E5%88%9D%E7%BA%A7%E7%AE%97%E6%B3%95/JavaScript/DynamicPlanning/ClimbStairs.js)|
+| 设计 |
+| [打乱数组](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/24/design/58/) |  | O(n) | O(n) | [Swift](https://github.com/aizliang/arithmetic/blob/master/初级算法/Swift/Design/shuffle.swift) \| [JavaScript](https://github.com/aizliang/arithmetic/blob/master/%E5%88%9D%E7%BA%A7%E7%AE%97%E6%B3%95/JavaScript/Design/ShuffleAnArray.js)|
