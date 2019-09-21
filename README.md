@@ -24,6 +24,8 @@
 | [打乱数组](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/24/design/58/) |  | O(n) | O(n) | [Swift](https://github.com/aizliang/arithmetic/blob/master/初级算法/Swift/Design/shuffle.swift) \| [JavaScript](https://github.com/aizliang/arithmetic/blob/master/%E5%88%9D%E7%BA%A7%E7%AE%97%E6%B3%95/JavaScript/Design/ShuffleAnArray.js)|
 | 数学 |
 | [Fizz Buzz](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/25/math/60/) |  | O(n) | O(n) | [Swift](https://github.com/aizliang/arithmetic/blob/master/%E5%88%9D%E7%BA%A7%E7%AE%97%E6%B3%95/Swift/Math/fizzBuzz.swift) \| [JavaScript](https://github.com/aizliang/arithmetic/blob/master/%E5%88%9D%E7%BA%A7%E7%AE%97%E6%B3%95/JavaScript/Math/FizzBuzz.js)|
+| 其他 |
+| [位 1 的个数](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/26/others/64/) |  | O(1) | O(1) | [Swift](https://github.com/aizliang/arithmetic/blob/master/%E5%88%9D%E7%BA%A7%E7%AE%97%E6%B3%95/Swift/Others/hammingWeight.swift) \| [JavaScript](https://github.com/aizliang/arithmetic/blob/master/%E5%88%9D%E7%BA%A7%E7%AE%97%E6%B3%95/JavaScript/Others/hammingWeight.js)|
 
 #### 排序算法
 | 算法 | 时间复杂度 | 空间复杂度 | 实现 |
