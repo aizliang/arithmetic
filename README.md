@@ -33,3 +33,9 @@
 | --- | --- | --- | --- |
 | [归并排序](https://zh.wikipedia.org/wiki/%E5%BD%92%E5%B9%B6%E6%8E%92%E5%BA%8F) | O(nlogn) | O(n) | [Swift](https://github.com/aizliang/arithmetic/blob/master/%E6%8E%92%E5%BA%8F/Swift/mergeSort.swift) \| [JavaScript](https://github.com/aizliang/arithmetic/blob/master/%E6%8E%92%E5%BA%8F/JavaScript/mergeSort.js) |
 | [快速排序](https://zh.wikipedia.org/wiki/%E5%BF%AB%E9%80%9F%E6%8E%92%E5%BA%8F) | O(nlogn) | O(logn) | [Swift](https://github.com/aizliang/arithmetic/blob/master/%E6%8E%92%E5%BA%8F/Swift/quickSort.swift) \| [JavaScript](https://github.com/aizliang/arithmetic/blob/master/%E6%8E%92%E5%BA%8F/JavaScript/quickSort.js) |
+
+#### 精选 top 面试
+
+| 题目 | 知识点 |时间 | 空间 | 实现 | 难度 |
+|-----|-----|-----|-----|-----|-----|
+| Excel表列序号 | 进制位 | O(n)| O(1) | [Swift](https://github.com/windazl/arithmetic/blob/master/%E7%B2%BE%E9%80%89%20top%20%E9%9D%A2%E8%AF%95/titleToNumber.swift) | 简单 |
