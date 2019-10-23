@@ -6,13 +6,15 @@
 
 import Foundation
 
+// 注意溢出的判断，正负整数的处理
+
 class Solution {
     func reverse(_ x: Int) -> Int {
         var tempN = x
         var reverseN = 0
         
         while tempN != 0 {
-            
+            // int32.max 最后一位是 7，int32.min 最后一位是 8
             if (reverseN > Int32.max/10) || (reverseN == Int32.max/10 && tempN > 7) {
                 return 0
             }
