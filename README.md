@@ -38,7 +38,8 @@
 
 | 题目 | 知识点 |时间 | 空间 | 实现 | 难度 | 
 |-----|-----|-----|-----|-----|-----|
-| Excel表列序号 | 进制位 | O(n)| O(1) | [Swift](https://github.com/windazl/arithmetic/blob/master/%E7%B2%BE%E9%80%89%20top%20%E9%9D%A2%E8%AF%95/titleToNumber.swift) | 简单 |
-| 求众数 |  | O(n)| O(1) | [Swift](https://github.com/windazl/arithmetic/blob/master/%E7%B2%BE%E9%80%89%20top%20%E9%9D%A2%E8%AF%95/majorityElement.swift) | 简单 |
-| 快乐数 |  | O(n)| O(1) | [Swift](https://github.com/windazl/arithmetic/blob/master/精选%20top%20面试/isHappy.swift) | 简单 |
-| 整数反转 | 整数溢出判断 | O(n)| O(1) | [Swift](https://github.com/windazl/arithmetic/blob/master/精选%20top%20面试/reverseInt.swift) | 简单 |
+| Excel表列序号 | 进制位 | O(n)| O(1) | [Swift](https://github.com/aizliang/arithmetic/blob/master/%E7%B2%BE%E9%80%89%20top%20%E9%9D%A2%E8%AF%95/titleToNumber.swift) | 简单 |
+| 求众数 |  | O(n)| O(1) | [Swift](https://github.com/aizliang/arithmetic/blob/master/%E7%B2%BE%E9%80%89%20top%20%E9%9D%A2%E8%AF%95/majorityElement.swift) | 简单 |
+| 快乐数 |  | O(n)| O(1) | [Swift](https://github.com/aizliang/arithmetic/blob/master/精选%20top%20面试/isHappy.swift) | 简单 |
+| 整数反转 | 整数溢出判断 | O(n)| O(1) | [Swift](https://github.com/aizliang/arithmetic/blob/master/精选%20top%20面试/reverseInt.swift) | 简单 |
+| 回文数 |  | O(log<sub>10</sub><sup>n</sup>)| O(1) | [Swift](https://github.com/aizliang/arithmetic/blob/master/精选%20top%20面试/isPalindrome.swift) | 简单 |
